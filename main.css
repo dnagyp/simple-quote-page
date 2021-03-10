@@ -1,0 +1,23 @@
+/* Main style*/
+
+* {
+  box-sizing: border-box;
+}
+
+h1,h2,h3,
+ul,ol,
+p,
+img {
+    margin-bottom: 1.5rem;
+}
+
+body {
+
+  background: url('assets/freedom.jpg') no-repeat center;
+  color: #444349
+  font-family: 'Crimson', Julius, arial;
+  font-size: 1.125rem;
+  line-height: 1.5;  
+}
+
+
